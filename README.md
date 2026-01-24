@@ -12,3 +12,5 @@
 ![](Wallpapers/009.png)
 ![](Wallpapers/010.png)
 ![](Wallpapers/011.png)
+![](Wallpapers/pgr-1.png)
+![](Wallpapers/pgr-2.png)
