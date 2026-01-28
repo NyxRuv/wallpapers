@@ -69,7 +69,7 @@
   <tr>
     <td><img src="Wallpapers/girl-at-park.png" width="400"/></td>
     <td><img src="Wallpapers/prison.png" width="400"/></td>
-    <td><img src="Wallpapers/white-eyes.png" width="400"/></td>
+    <td><img src="Wallpapers/white-hair.png" width="400"/></td>
   </tr>
 </table>
 
