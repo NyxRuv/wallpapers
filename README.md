@@ -101,5 +101,10 @@
     <td><img src="Wallpapers/suzume-door.png" width="400"/></td>
     <td><img src="Wallpapers/saber.png" width="400"/></td>
   </tr>
+  <tr>
+    <td><img src="Wallpapers/shogundark.jpg" width="400"/></td>
+    <td><img src="Wallpapers/girl-with-sword-glasses.jpg" width="400"/></td>
+    <td><img src="Wallpapers/flower-boy.png" width="400"/></td>
+  </tr>
 </table>
 
