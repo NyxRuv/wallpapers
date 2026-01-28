@@ -96,5 +96,10 @@
     <td><img src="Wallpapers/keyboard-switch.png" width="400"/></td>
     <td><img src="Wallpapers/crsword.png" width="400"/></td>
   </tr>
+  <tr>
+    <td><img src="Wallpapers/white-dress.png" width="400"/></td>
+    <td><img src="Wallpapers/suzume-door.png" width="400"/></td>
+    <td><img src="Wallpapers/saber.png" width="400"/></td>
+  </tr>
 </table>
 
