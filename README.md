@@ -131,5 +131,9 @@
     <td><img src="Wallpapers/kurou.png" width="400"/></td>
     <td><img src="Wallpapers/girl-with-cat.png" width="400"/></td>
   </tr>
+  <tr>
+    <td><img src="Wallpapers/red-eyes.png" width="400"/></td>
+    <td><img src="Wallpapers/green-fish.png" width="400"/></td>
+  </tr>
 </table>
 
