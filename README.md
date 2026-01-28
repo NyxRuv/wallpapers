@@ -116,5 +116,15 @@
     <td><img src="Wallpapers/sakurabranch.png" width="400"/></td>
     <td><img src="Wallpapers/woman-lying-on-a-pile-of-books.png" width="400"/></td>
   </tr>
+  <tr>
+    <td><img src="Wallpapers/girl-bouqet.png" width="400"/></td>
+    <td><img src="Wallpapers/anime-back.png" width="400"/></td>
+    <td><img src="Wallpapers/girl-looking.png" width="400"/></td>
+  </tr>
+  <tr>
+    <td><img src="Wallpapers/night.png" width="400"/></td>
+    <td><img src="Wallpapers/vapor-wave.png" width="400"/></td>
+    <td><img src="Wallpapers/smok.png" width="400"/></td>
+  </tr>
 </table>
 
