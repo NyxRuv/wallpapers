@@ -19,3 +19,8 @@
 ![](Wallpapers/014.png)
 ![](Wallpapers/live.png)
 ![](Wallpapers/jihnsi_gruvbox.png)
+![](Wallpapers/red_nun.png)
+![](Wallpapers/sword_draw.png)
+![](Wallpapers/demon_girl.png)
+![](Wallpapers/penguinppuccin.png)
+![](Wallpapers/015.png)
