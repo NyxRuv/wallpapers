@@ -106,5 +106,15 @@
     <td><img src="Wallpapers/girl-with-sword-glasses.jpg" width="400"/></td>
     <td><img src="Wallpapers/flower-boy.png" width="400"/></td>
   </tr>
+  <tr>
+    <td><img src="Wallpapers/girl-railroad-crossing.png" width="400"/></td>
+    <td><img src="Wallpapers/sword-black.png" width="400"/></td>
+    <td><img src="Wallpapers/hideeye.png" width="400"/></td>
+  </tr>
+  <tr>
+    <td><img src="Wallpapers/waytoobigsword.png" width="400"/></td>
+    <td><img src="Wallpapers/sakurabranch.png" width="400"/></td>
+    <td><img src="Wallpapers/woman-lying-on-a-pile-of-books.png" width="400"/></td>
+  </tr>
 </table>
 
