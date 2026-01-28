@@ -49,7 +49,12 @@
   <tr>
     <td><img src="Wallpapers/delorean.png" width="400"/></td>
     <td><img src="Wallpapers/samurai.png" width="400"/></td>
-    <td></td>
+    <td><img src="Wallpapers/purple-eyes.png" width="400"/></td>
+  </tr>
+  <tr>
+    <td><img src="Wallpapers/raiden-shogun-purple.png" width="400"/></td>
+    <td><img src="Wallpapers/girl-eye.png" width="400"/></td>
+    <td><img src="Wallpapers/columbina.png" width="400"/></td>
   </tr>
 </table>
 
