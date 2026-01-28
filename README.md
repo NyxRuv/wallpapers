@@ -61,5 +61,15 @@
     <td><img src="Wallpapers/green.png" width="400"/></td>
     <td><img src="Wallpapers/hee.png" width="400"/></td>
   </tr>
+  <tr>
+    <td><img src="Wallpapers/law.png" width="400"/></td>
+    <td><img src="Wallpapers/mask.png" width="400"/></td>
+    <td><img src="Wallpapers/error.png" width="400"/></td>
+  </tr>
+  <tr>
+    <td><img src="Wallpapers/girl-at-park.png" width="400"/></td>
+    <td><img src="Wallpapers/prison.png" width="400"/></td>
+    <td><img src="Wallpapers/white-eyes.png" width="400"/></td>
+  </tr>
 </table>
 
