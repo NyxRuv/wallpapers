@@ -91,5 +91,10 @@
     <td><img src="Wallpapers/lady_.png" width="400"/></td>
     <td><img src="Wallpapers/uni-eyes.png" width="400"/></td>
   </tr>
+  <tr>
+    <td><img src="Wallpapers/midsword.png" width="400"/></td>
+    <td><img src="Wallpapers/keyboard-switch.png" width="400"/></td>
+    <td><img src="Wallpapers/crsword.png" width="400"/></td>
+  </tr>
 </table>
 
