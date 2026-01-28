@@ -71,5 +71,20 @@
     <td><img src="Wallpapers/prison.png" width="400"/></td>
     <td><img src="Wallpapers/white-hair.png" width="400"/></td>
   </tr>
+  <tr>
+    <td><img src="Wallpapers/astronaut-in-space.png" width="400"/></td>
+    <td><img src="Wallpapers/girl-flower.png" width="400"/></td>
+    <td><img src="Wallpapers/rofi-blossom.png" width="400"/></td>
+  </tr>
+  <tr>
+    <td><img src="Wallpapers/gachikuta.png" width="400"/></td>
+    <td><img src="Wallpapers/sword-draw.png" width="400"/></td>
+    <td><img src="Wallpapers/sword-draw-monochrome.png" width="400"/></td>
+  </tr>
+  <tr>
+    <td><img src="Wallpapers/venom.png" width="400"/></td>
+    <td><img src="Wallpapers/.png" width="400"/></td>
+    <td><img src="Wallpapers/.png" width="400"/></td>
+  </tr>
 </table>
 
