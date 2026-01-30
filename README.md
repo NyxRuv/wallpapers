@@ -134,6 +134,10 @@
   <tr>
     <td><img src="Wallpapers/red-eyes.png" width="400"/></td>
     <td><img src="Wallpapers/green-fish.png" width="400"/></td>
+    <td><img src="Wallpapers/whale.png" width="400"/></td>
+  </tr>
+  <tr>
+    <td><img src="Wallpapers/buildings.png" width="400"/></td>
   </tr>
 </table>
 
