@@ -34,7 +34,7 @@
   <tr>
     <td><img src="Wallpapers/jihnsi_gruvbox.png" width="400"/></td>
     <td><img src="Wallpapers/red_nun.png" width="400"/></td>
-    <td><img src="Wallpapers/sword_draw.png" width="400"/></td>
+    <td><img src="Wallpapers/ghost-of-yotei.png" width="400"/></td>
   </tr>
   <tr>
     <td><img src="Wallpapers/demon_girl.png" width="400"/></td>
