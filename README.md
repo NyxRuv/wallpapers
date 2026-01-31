@@ -139,6 +139,7 @@
   <tr>
     <td><img src="Wallpapers/buildings.png" width="400"/></td>
     <td><img src="Wallpapers/016.png" width="400"/></td>
+    <td><img src="Wallpapers/sword-with-flower.png" width="400"/></td>
   </tr>
 </table>
 
