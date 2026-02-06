@@ -144,6 +144,7 @@
   <tr>
     <td><img src="Wallpapers/phrolova.png" width="400"/></td>
     <td><img src="Wallpapers/cloud.png" width="400"/></td>
+    <td><img src="Wallpapers/girl-magic-circle.png" width="400"/></td>
   </tr>
 </table>
 
