@@ -149,6 +149,7 @@
   <tr>
     <td><img src="Wallpapers/reflection.png" width="400"/></td>
     <td><img src="Wallpapers/sky.png" width="400"/></td>
+    <td><img src="Wallpapers/makima.png" width="400"/></td>
   </tr>
 </table>
 
