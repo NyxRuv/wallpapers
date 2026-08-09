@@ -211,5 +211,9 @@
     <td><img src="walls/025.png" width="400"/></td>
     <td><img src="walls/train.png" width="400"/></td>
   </tr>
+  <tr>
+    <td><img src="walls/changli.png" width="400"/></td>
+    <td><img src="walls/krishna.jpeg" width="400"/></td>
+  </tr>
 </table>
 
