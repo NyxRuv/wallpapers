@@ -214,6 +214,7 @@
   <tr>
     <td><img src="walls/changli.png" width="400"/></td>
     <td><img src="walls/krishna.jpeg" width="400"/></td>
+    <td><img src="walls/maid.png" width="400"/></td>
   </tr>
 </table>
 
