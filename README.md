@@ -216,5 +216,10 @@
     <td><img src="walls/krishna.jpeg" width="400"/></td>
     <td><img src="walls/maid.png" width="400"/></td>
   </tr>
+  <tr>
+    <td><img src="walls/white-and-red.png" width="400"/></td>
+    <td><img src="walls/green-hair.png" width="400"/></td>
+    <td><img src="walls/wall.png" width="400"/></td>
+  </tr>
 </table>
 
